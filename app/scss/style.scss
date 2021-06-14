@@ -173,11 +173,19 @@ h2{
          border: 0.5px solid #eee;
        
          height: 143px;
-       
+         img{
+            
+         }
       }
    }
 }
-
+.partner{
+   img{
+      width: 140px;
+      height: 140px;
+      object-fit: contain;
+   }
+}
 
 
 // footer
